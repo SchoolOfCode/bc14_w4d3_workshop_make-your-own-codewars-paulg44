@@ -1,3 +1,7 @@
+Chicken Chaos!!!
+Someone left the gate to the chicken coop open over night, a number of chickens have escaped and are scattered across the School of Code farm.
+The missing chickens have been located and put into an array already for you, but there are numerous chickens in various locations, your task is to collect the missing chickens all in one place (single number) so they can be returned to the coop.......as a string!!!
+
 # Make your own CodeWars
 
 You've spent the past few weeks solving katas on CodeWars, and you might think that they're written by an elite cabal of software geniuses (or not if you've run across a few less-than-stellar katas!). Not so - they're written by ordinary programmers, and you're now officially School of Code-qualified to join in and give writing your own a try.
